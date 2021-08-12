@@ -1,0 +1,1 @@
+conda create -n tensorflowgpu python=3.6 & activate tensorflowgpu & conda install tensorflow=1.11.0 & conda install matplotlib & conda install pillow & ECHO 環境建置完成 & pause

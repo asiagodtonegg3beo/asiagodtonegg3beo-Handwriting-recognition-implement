@@ -1,0 +1,1 @@
+@echo on & cd %cd% & conda activate tensorflowgpu & python traing.py & pause
