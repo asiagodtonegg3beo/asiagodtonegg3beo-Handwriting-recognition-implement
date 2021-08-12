@@ -1,4 +1,4 @@
-#Handwriting-recognition-implement
+# Handwriting-recognition-implement
 
 1.TrainingData放置手寫圖片及執行建立環境.cmd。
 
